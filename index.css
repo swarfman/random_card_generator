@@ -1,0 +1,26 @@
+body{
+    background: green;
+}
+.card{
+    background: white;
+    margin: auto;
+    width: 475px;
+    height: 600px;
+    border-radius: 25px;
+    font-size: 100px;
+    color: red;
+}
+.bottom_logo{
+    font-size: 100px;
+    position: relative;
+    top: 500px;
+    left: 290px;
+    -webkit-transform: rotate(-180deg);
+}
+h1{
+    position: absolute;
+    top: 70px;
+    left: 660px;
+    color: black;
+}
+
